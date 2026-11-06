@@ -1,6 +1,6 @@
 # M0 — Development readiness gate
 
-**Status: blocked pending verified Core capabilities.** Track completion in [issue #1](https://github.com/skvorc-dev/FrankenSPO.WebApi/issues/1).
+**Status: blocked pending verified Core capabilities** (for the first release; the build skeleton exists since 2026-11-06). Track completion in [issue #1](https://github.com/skvorc-dev/FrankenSPO.WebApi/issues/1).
 
 - [ ] Verified Core metadata, CRUD, query and association mapping contracts
 - [ ] Trusted host authentication/authorization and safe input binding/exposure rules
